@@ -2,6 +2,7 @@ body{
     background-color: rgb(255, 246, 246);
 }
 
+
 .parent {
     width: 80%;
     min-height: 20vh;
@@ -23,7 +24,7 @@ body{
 
 .parent h2 {
     font-size: 1.8rem;
-    color: #333;
+    color: #333333;
     margin-bottom: 10px;
 }
 
